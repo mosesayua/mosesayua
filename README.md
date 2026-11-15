@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Moses Ayua
 ### Cybersecurity | IT Audit & GRC | Data Analytics & Automation
 
