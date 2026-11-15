@@ -1,9 +1,10 @@
 # Moses Ayua
-### Cybersecurity | IT Audit & GRC | Data Analytics & Automation
+### **Cybersecurity | IT Audit & GRC | AI Assurance | Data Analytics & Automation**
 
 I am a CISA- and CISM-certified cybersecurity, IT audit and technology risk professional with over eight years of experience, including roles at PwC UK and KPMG Nigeria.
 
-My expertise covers information security governance, technology risk assessment, control assurance and compliance. I help organisations identify control weaknesses, assess their business implications and prioritise practical improvements.
+My expertise covers information security governance, technology risk assessment, control assurance and compliance. I help organisations identify control weaknesses, assess their business implications and prioritise practical improvements. 
+My focus also includes AI governance and assurance: applying risk assessment, control evaluation and evidence-based testing to assess the reliability, security and accountability of AI-enabled systems.
 
 Based in Switzerland, I have experience collaborating remotely with international clients and teams across financial services, telecommunications and other commercial sectors.
 
@@ -18,6 +19,7 @@ My technical focus includes Python-based automation, SQL analytics and data pipe
 - **IT audit and compliance:** Control design and operating effectiveness testing, deficiency evaluation and audit readiness.
 - **Remediation:** Root cause analysis, practical recommendations and tracking corrective actions.
 - **Data analytics and automation:** Data preparation, validation, exception analysis and repeatable reporting workflows.
+- **AI governance and assurance focus:** AI risk assessment, evaluation of model outputs, data quality, human oversight and supporting control documentation
 
 ## Tools and Platforms
 
